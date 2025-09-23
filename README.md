@@ -28,7 +28,7 @@ Set up GitHub repo, CI/CD (GitHub Actions).
 
 Prepare basic Next.js app skeleton with TailwindCSS.
 
-Week 2 (20 hrs)
+### Week 2 (20 hrs)
 
 Database schema design:
 
