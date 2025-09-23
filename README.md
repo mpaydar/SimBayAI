@@ -38,7 +38,7 @@ Set up PostgreSQL (locally + plan for cloud, e.g., AWS RDS).
 
 Implement basic authentication (admin login).
 
-Build wireframes for:
+**Build wireframes for:**
 
 Customer menu + order flow.
 
