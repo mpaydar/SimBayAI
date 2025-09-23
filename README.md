@@ -12,7 +12,7 @@ Meet with bakery owner: confirm inventory categories, ordering process, membersh
 Draft requirements document (features, workflows, notifications).
 
 
-** Sketch system architecture:
+**Sketch system architecture:**
 
 Frontend: Next.js (customer site + admin dashboard).
 
